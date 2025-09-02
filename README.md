@@ -423,7 +423,6 @@ The repository includes example datasets:
 - **`example_tree.nwk`** - Sample phylogenetic tree
 - **`example_metadata.tsv`** - Corresponding metadata file
 - **`tutorial_data/`** - Complete tutorial dataset
-<img width="1990" height="989" alt="download" src="https://github.com/user-attachments/assets/9e3f5bba-5773-4133-94db-56fce7e75f57<img width="1990" height="989" alt="download" src="https://github.com/user-attachments/assets/40e14ac7-a67c-4c93-9b2c-75ea156d09f3" />
 <img width="1990" height="989" alt="download" src="https://github.com/user-attachments/assets/00367c1c-3f31-4906-916e-9159d846738f" />
 <img width="1990" height="989" alt="download" src="https://github.com/user-attachments/assets/1c123757-61af-416d-81b6-5db1d8004c50" />
 <img width="1490" height="989" alt="download" src="https://github.com/user-attachments/assets/e9e893a5-0056-474e-9b05-7f949acbacc0" />
