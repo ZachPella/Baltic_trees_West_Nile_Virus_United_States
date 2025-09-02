@@ -423,3 +423,14 @@ The repository includes example datasets:
 - **`example_tree.nwk`** - Sample phylogenetic tree
 - **`example_metadata.tsv`** - Corresponding metadata file
 - **`tutorial_data/`** - Complete tutorial dataset
+<img width="1990" height="989" alt="download" src="https://github.com/user-attachments/assets/9e3f5bba-5773-4133-94db-56fce7e75f57<img width="1990" height="989" alt="download" src="https://github.com/user-attachments/assets/40e14ac7-a67c-4c93-9b2c-75ea156d09f3" />
+" />
+<img width="1990" height="989" alt="download" src="https://github.com/user-attachments/assets/00367c1c-3f31-4906-916e-9159d846738f" />
+<img width="1990" height="989" alt="download" src="https://github.com/user-attachments/assets/1c123757-61af-416d-81b6-5db1d8004c50" />
+<img width="1490" height="989" alt="download" src="https://github.com/user-attachments/assets/e9e893a5-0056-474e-9b05-7f949acbacc0" />
+<img width="1990" height="1389" alt="download" src="https://github.com/user-attachments/assets/2206a789-b4d1-457f-8c98-1cf28ad93fac" />
+<img width="1990" height="989" alt="download" src="https://github.com/user-attachments/assets/8292d05e-b155-497a-be74-79dbe268017c" />
+<img width="1990" height="989" alt="download" src="https://github.com/user-attachments/assets/378afadc-c42f-42a4-a6c7-ec807bba054a" />
+<img width="1990" height="1189" alt="download" src="https://github.com/user-attachments/assets/7fef648b-2ffe-4e71-87d7-5c9ae010e5bb" />
+<img width="2790" height="789" alt="download" src="https://github.com/user-attachments/assets/37c78cc6-d115-433e-8fb4-2075ddab9b62" />
+<img width="1589" height="789" alt="download" src="https://github.com/user-attachments/assets/da5c2982-21df-41b9-8367-b5906ed8a822" />
